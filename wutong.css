@@ -720,6 +720,7 @@ border: 1px solid rgba(239, 239, 239, 0.937255);
 .card-4{ 
 background:url(quake-img/dotted-background_ctrish\ 1.png)  ,linear-gradient(180.1deg, #212121 30.41%, #E2E4EB 99.92%);
 border-radius: 16px;
+padding-bottom: 13px;
 }
 .section-six{
   margin-top:380px;
