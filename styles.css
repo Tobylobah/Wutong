@@ -246,14 +246,17 @@ div.giftcards-logo{
   margin:80px 100px;
   display: flex;
   justify-content: space-between;
+
 }
-.sell-card{
-  width:100%;
+.sell-card:nth-child(even){
+  
 }
 .sell-card img{
   width:470px; 
-  margin-top: 80px;
+  margin-top: 80px; 
 }
+
+
 .container{
 background: #FFFFFF;
 border: 1px solid #EFEFEF;
@@ -1144,7 +1147,7 @@ align-items: center;
 }
 @media(max-width:570px){
   .sell-card{
-    width:100%;
+    width:0%;
   }
   .sell-card img{
     width: 400px;
