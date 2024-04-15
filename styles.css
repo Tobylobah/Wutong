@@ -1208,7 +1208,11 @@ align-items: center;
     display:grid;
     grid-template-columns: 50% 50%;
   }
-   
+  .sell-card img{
+ width:350px;
+  }
+ 
+  
 
 }
 @media(max-width:400px){
